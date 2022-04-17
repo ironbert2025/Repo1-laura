@@ -109,6 +109,13 @@ function App() {
      {report.boolR ? (
              <div className='flex-row'>
 
+               {/* testing for git 
+               aqui hay mas codigo de ejemplo
+            
+               
+               
+               */}
+
                 {/*console.log("se pinta la table Reporte2 ")*/}
                
                <TableReport2 records={report.record}/>            
